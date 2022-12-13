@@ -1,4 +1,6 @@
-  <div id="info_02"  class="info_02" style="
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100" height="100">
+    <div id="info_02" class="info_02" style="
   background: #3c3c3c !important;
   padding: 20px !important;">
       <a href="https://github.com/kerwin162">
@@ -18,4 +20,6 @@
       <a href="https://github.com/kerwin162">
         <img src="https://komarev.com/ghpvc/?username=kerwin162&color=brightgreen&label=👁%20访问量" />
       </a>
-  </div>
+    </div>
+  </foreignObject>
+</svg>
