@@ -1,5 +1,5 @@
-<div>
-  <div style="background: #3c3c3c; padding: 20px;">
+<div align="center">
+  <div align="center" class="new_info" style="background: #3c3c3c; padding: 20px;">
     <p align="center">
       <a href="https://github.com/kerwin162">
         <img
