@@ -1,7 +1,3 @@
-<a href="https://github.com/kerwin162" style="display: block; float: left;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kerwin162&count_private=true&show_icons=true&bg_color=f3f3f3" />
-</a>
 <a href="https://www.ifactory.top">
   <img src="https://img.shields.io/badge/📖%20博客-brightness.svg" />
 </a></br>
@@ -14,3 +10,6 @@
 <a href="https://github.com/kerwin162">
   <img src="https://komarev.com/ghpvc/?username=kerwin162&color=brightgreen&label=👁%20访问量" />
 </a>
+<img
+    src="https://github-readme-stats.vercel.app/api?username=kerwin162&count_private=true&show_icons=true&bg_color=f3f3f3" />
+
