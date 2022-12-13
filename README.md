@@ -15,8 +15,6 @@
     <a href="https://juejin.cn/user/712139265815144/posts">
       <img src="https://img.shields.io/badge/📖%20掘金-brightness.svg" />
     </a>
-    </a>
-
     <a href="https://github.com/kerwin162">
       <img src="https://komarev.com/ghpvc/?username=kerwin162&color=brightgreen&label=👁%20访问量" />
     </a>
