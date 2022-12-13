@@ -13,7 +13,7 @@
     </a>&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
     <a href="https://www.ifactory.top">
       <img src="https://img.shields.io/badge/📖%20Blog-www.ifactory.top-brightness.svg" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="mailto:wapedkj@sina.com">
       <img src="https://img.shields.io/badge/📮%20Email-wapedkj@sina.com-brightness.svg" />
     </a>
