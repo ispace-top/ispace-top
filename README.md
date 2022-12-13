@@ -1,7 +1,7 @@
-<div align="center" style="background: #3c3c3c; padding: 20px;">
+<div align="center" class="new_info" style="background: #3c3c3c; padding: 20px;">
   <p align="center">
     <a href="https://github.com/kerwin162">
-      <img src="https://github-readme-stats.vercel.app/api?username=kerwin162&show_icons=true&bg_color=f3f3f3" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kerwin162&count_private=true&show_icons=true&bg_color=f3f3f3" />
     </a>
   </p>
 
