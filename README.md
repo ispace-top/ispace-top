@@ -6,10 +6,11 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=kerwin162&count_private=true&show_icons=true&bg_color=f3f3f3" />
   </p>
-  <p style="background: #3c3c3c !important;">
-    <a href="https://github.com/kerwin162">
+  <p style="background: #3c3c3c !important; padding-left: 20px;">
+    &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/kerwin162" style="margin-left:20px">
       <img src="https://komarev.com/ghpvc/?username=kerwin162&color=brightgreen&label=👁%20Pageviews" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
     <a href="https://www.ifactory.top">
       <img src="https://img.shields.io/badge/📖%20Blog-www.ifactory.top-brightness.svg" />
     </a>
