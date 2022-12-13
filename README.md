@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/kerwin162">
       <img src="https://github-readme-stats.vercel.app/api?username=kerwin162&show_icons=true&bg_color=00000000" />
-      <img src="../Totoro.gif"/>
+      <img src="https://github.com/kerwin162/kerwin162/blob/main/Totoro.gif" />
     </a>
   </p>
 
