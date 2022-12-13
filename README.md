@@ -6,11 +6,11 @@
   </p>
 
   <p align="center">
-    <a href="https://www.jianshu.com/u/f7bb67d86765">
+    <a href="https://www.ifactory.top">
       <img src="https://img.shields.io/badge/📖%20博客-brightness.svg" />
     </a>
-    <a href="https://mp.weixin.qq.com/s/WicJOwSwO9HRdu39jOR7TQ">
-      <img src="https://img.shields.io/badge/🚀%20微信-brightness.svg" />
+    <a href="mailto:wapedkj@sina.com">
+      <img src="https://img.shields.io/badge/📮%20邮箱-brightness.svg" />
     </a>
     <a href="https://juejin.cn/user/712139265815144/posts">
       <img src="https://img.shields.io/badge/📖%20掘金-brightness.svg" />
