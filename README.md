@@ -3,18 +3,15 @@
     <img
       src="https://www.ifactory.top/upload/2022/03/b344a96fcf9e6fb3c2911585d57f191c-c58d04cf19fb4f9aa79c17c70a259c5f.gif"
       height="195px" width="195px" />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=kerwin162&count_private=true&show_icons=true&bg_color=f3f3f3" />
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <picture>
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+      <source
+            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
 </picture>
   </p>
   <p style="background: #3c3c3c !important; padding-left: 20px;">
