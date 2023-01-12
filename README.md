@@ -5,7 +5,6 @@
       height="195px" width="195px" />
     <img
       src="https://github-readme-stats.vercel.app/api?username=kerwin162&count_private=true&show_icons=true&bg_color=f3f3f3" />
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
   </p>
   <p style="background: #3c3c3c !important; padding-left: 20px;">
@@ -22,3 +21,4 @@
    
   </p>
 </article>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
