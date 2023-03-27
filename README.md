@@ -1,7 +1,7 @@
 <article style="display: block; background-color: #3c3c3c !important;padding: 10px !important;text-align: center !important; width: 100% !important;">
   <p style="background: #3c3c3c !important;">
     <img
-      src="https://www.ifactory.top/upload/2022/03/b344a96fcf9e6fb3c2911585d57f191c-c58d04cf19fb4f9aa79c17c70a259c5f.gif"
+      src="longmao.gif"
       height="195px" width="195px" />
     <picture>
         <source 
