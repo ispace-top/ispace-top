@@ -21,7 +21,7 @@
       <img src="https://komarev.com/ghpvc/?username=ispace-top&color=brightgreen&label=👁%20Pageviews" />
     </a>&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
     <a href="https://www.isapce.top">
-      <img src="https://img.shields.io/badge/📖%20Blog-www.ifactory.top-brightness.svg" />
+      <img src="https://img.shields.io/badge/📖%20Blog-www.ispacce.top-brightness.svg" />
     </a>&nbsp;&nbsp;
     <a href="mailto:wapedkj@sina.com">
       <img src="https://img.shields.io/badge/📮%20Email-wapedkj@sina.com-brightness.svg" />
