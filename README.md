@@ -19,7 +19,7 @@
       </a> &nbsp;&nbsp;
       <a href="https://www.ispace.top">
         <img src="https://img.shields.io/badge/📖%20Blog-www.ispace.top-brightness.svg" />
-      </a>&nbsp;&nbsp;
+      </a> &nbsp;&nbsp;
       <a href="mailto:wapedkj@sina.com">
         <img src="https://img.shields.io/badge/📮%20Email-wapedkj@sina.com-brightness.svg" />
       </a>
