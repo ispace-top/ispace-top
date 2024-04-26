@@ -15,7 +15,7 @@
 </p>
   <p style="background: #3c3c3c !important; padding-left: 20px;">
       <a href="https://github.com/ispace-top" style="margin-left:20px">
-        <img src="https://komarev.com/ghpvc/?username=ispace-top&color=brightgreen&label=👁%20Views%20." />
+        <img src="https://komarev.com/ghpvc/?username=ispace-top&color=brightgreen&label=%20👁%20Views%20." />
       </a> &nbsp;&nbsp;
       <a href="https://www.ispace.top">
         <img src="https://img.shields.io/badge/📖%20Blog-www.ispace.top-brightness.svg" />
