@@ -12,8 +12,7 @@
 Android | Java | JavaScript
 
 ### 📊  编程活跃度  
-<!--START_SECTION:waka--> 
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
 
-<!--END_SECTION:waka-->
 
 </div> 
