@@ -10,10 +10,11 @@
 
 ### ⚙️  技术栈   
 Android | Java | JavaScript
+---
 
 ### 📊  编程活跃度  
 <!--LOCAL:zh-CN-->
-<div align="left" width="100%">
+<div align="left" width="90%">
 <!--START_SECTION:waka-->
 **我是早起的 🐤** 
 
