@@ -9,12 +9,15 @@
 [![](https://img.shields.io/badge/✉️_wapedkj@sina.com-blue?logo=gmail)](mailto:wapedkj@sina.com)
 
 ### ⚙️  技术栈   
-Android | Java | JavaScript
----
+- Android
+- Java
+- JavaScript
+
+-------------
 
 ### 📊  编程活跃度  
 <!--LOCAL:zh-CN-->
-<div align="left" width="90%">
+<div align="left" width="85%">
 <!--START_SECTION:waka-->
 **我是早起的 🐤** 
 
