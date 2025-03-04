@@ -13,7 +13,7 @@
 Android  |  Java  |  JavaScript
 
 
--------------
+--
 ### 📊  编程活跃度  
 <!--LOCAL:zh-CN-->
 <div align="left" width="85%">
