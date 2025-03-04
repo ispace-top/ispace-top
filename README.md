@@ -1,8 +1,8 @@
 <div align="center">
 
-## 🚀 技术探索者 | [🇺🇸 Switch to English](#english)  
+## 🚀 技术探索者 | [🇺🇸 Switch to English](./README_en.md)  
 
-<img src="./longmao.gif" width=200 style='border-radius:10px;margin-right:30px'> 
+<img src="./longmao.gif" width=200 style='border-radius:10px;margin-right:30px'/> 
 ![数据统计](http://github-readme-stats.sigma-five.vercel.app/api?username=ispace-top&locale=cn&show_icons=true)
 
 [![](https://komarev.com/ghpvc/?username=ispace-top&color=brightgreen&label=%F0%9F%91%81%E7%A8%B3%E8%A7%86%E9%A2%91)](https://github.com/ispace-top)
