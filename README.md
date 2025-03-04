@@ -13,6 +13,77 @@ Android | Java | JavaScript
 
 ### 📊  编程活跃度  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 29 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+🌆 Daytime                218 commits         ████████████░░░░░░░░░░░░░   49.66 % 
+🌃 Evening                175 commits         ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Tuesday                  154 commits         █████████░░░░░░░░░░░░░░░░   35.08 % 
+Wednesday                121 commits         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Thursday                 71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Friday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Java                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ispace-top/ispace-top/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/03/2025 11:15:24 UTC
 <!--END_SECTION:waka-->
 
 
