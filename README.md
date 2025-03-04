@@ -12,6 +12,7 @@
 Android | Java | JavaScript
 
 ### 📊  编程活跃度  
+<!--LOCAL:zh-CN-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
