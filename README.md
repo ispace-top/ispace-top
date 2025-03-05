@@ -4,7 +4,7 @@
 
 [![](https://komarev.com/ghpvc/?username=ispace-top&color=brightgreen&label=%20%20%20👁%20%E6%B5%8F%E8%A7%88%20%20%20%20)](https://github.com/isace-top) 
 [![](https://img.shields.io/badge/🌐_博客-www.ispace.top-brightgreen)](https://www.isapce.top) 
-[![](https://img.shields.io/badge/✉️_wapedkj@sina.com-blue?logo=gmail)](mailto:wapedkj@sina.com)
+[![](https://img.shields.io/badge/_wapedkj@sina.com-blue?logo=gmail)](mailto:wapedkj@sina.com)
 
 ### ⚙️  技术栈   
 
