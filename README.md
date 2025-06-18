@@ -3,7 +3,6 @@
 <!-- 图片风格推荐：深色背景，带有抽象的几何线条、光效、电路板纹理、二进制代码流或赛博朋克元素，营造出科技感和未来感。 -->
 <!-- 你可以自行设计或寻找符合此类风格的图片。以下是一个科技感占位图示例： -->
 <img src="https://placehold.co/1200x300/1a202c/e2e8f0?text=iSpace-top%0A%F0%9F%9A%80%20Tech%20Explorer%20%26%20Innovator" alt="iSpace-top Personal Banner" style="width:100%; max-width:1200px; border-radius: 10px; margin-bottom: 20px;">
-## 🚀 iSpace-top | [English Version](./README_en.md)
   
 <!-- GitHub Readme Stats - 可以选择更匹配你个人主题的颜色，目前使用 transparent -->
 ![数据统计](https://github-readme-stats-sigma-five.vercel.app/api?username=ispace-top&show_icons=true&theme=transparent&count_private=true)
@@ -14,7 +13,7 @@
 
 <div align="center">
 
-### 👋 你好，我是 iSpace-top！
+### 👋 你好，我是 iSpace-top！ | [English Version](./README_en.md)
 
 一位专注于 **移动应用开发与前端技术** 的工程师。
 我对 **构建高性能、用户友好的软件解决方案** 充满热情，并乐于探索新兴技术。
