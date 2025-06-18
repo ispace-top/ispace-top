@@ -10,6 +10,10 @@
 
 ### 👋 你好，我是 iSpace-top！ | [English Version](./README_en.md)
 
+[![](https://komarev.com/ghpvc/?username=ispace-top&color=brightgreen&label=%20%20%20👁%20浏览%20%20%20%20)](https://github.com/isace-top) &nbsp;
+[![](https://img.shields.io/badge/🌐_博客-www.ispace.top-brightgreen)](https://www.ispace.top) &nbsp;
+[![](https://img.shields.io/badge/_wapedkj@sina.com-blue?logo=gmail)](mailto:wapedkj@sina.com) &nbsp;
+
 一位专注于 **移动应用开发与前端技术** 的工程师。
 我对 **构建高性能、用户友好的软件解决方案** 充满热情，并乐于探索新兴技术。
 在这里，你可以看到我的技术探索、开源贡献和项目实践。
@@ -22,20 +26,6 @@
 -------
 
 <div align="center">
-
-### 🌐 社交与联系方式
-
-<!-- 重新添加并整理的社交徽章，你可以根据需要增删和调整顺序 -->
-[![](https://komarev.com/ghpvc/?username=ispace-top&color=brightgreen&label=%20%20%20👁%20浏览%20%20%20%20)](https://github.com/isace-top) &nbsp;
-[![](https://img.shields.io/badge/🌐_博客-www.ispace.top-brightgreen)](https://www.ispace.top) &nbsp;
-[![](https://img.shields.io/badge/_wapedkj@sina.com-blue?logo=gmail)](mailto:wapedkj@sina.com) &nbsp;
-<!-- 欢迎添加更多社交媒体链接，例如 LinkedIn, CSDN, 知乎, Twitter, 个人作品集链接等 -->
-<!-- 示例： -->
-<!-- [![](https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) &nbsp; -->
-<!-- [![](https://img.shields.io/badge/CSDN-your_csdn_id-C0292B?style=flat&logo=csdn&logoColor=white)](https://blog.csdn.net/your_csdn_id) -->
-
-
--------
 
 ### ⚙️  我的技术栈
 
