@@ -31,11 +31,9 @@
 
 <div align="left">
   
-* **核心语言：** Java, JavaScript, Python, TypeScript
-* **移动开发：** Android (原生), React Native
-* **前端框架/库：** React, Vue.js, Angular (或你熟悉的框架)
-* **后端/数据库：** Node.js, Spring Boot, Python Flask/Django, MySQL, PostgreSQL, MongoDB (或你熟悉的)
-* **云平台与工具：** Git, Docker, Kubernetes, AWS/Azure/GCP (或你熟悉的云服务), Jenkins/GitHub Actions (CI/CD)
+* **核心语言：** Java, JavaScript,  TypeScript, Python
+* **移动开发：** Android (原生), HarmonyOS, 小程序
+* **云平台与工具：** Git, Docker, Jenkins/GitHub Actions (CI/CD)
   
 </div>
 </div>
