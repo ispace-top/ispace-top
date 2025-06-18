@@ -1,12 +1,9 @@
 <div align="center">
-
-## 🚀 iSpace-top | [English Version](./README_en.md)
-
 <!-- 个人 Banner 图：建议尺寸为 1200x250 到 1200x400 像素，长宽比大约在 4:1 到 3:1 之间。 -->
 <!-- 图片风格推荐：深色背景，带有抽象的几何线条、光效、电路板纹理、二进制代码流或赛博朋克元素，营造出科技感和未来感。 -->
 <!-- 你可以自行设计或寻找符合此类风格的图片。以下是一个科技感占位图示例： -->
 <img src="https://placehold.co/1200x300/1a202c/e2e8f0?text=iSpace-top%0A%F0%9F%9A%80%20Tech%20Explorer%20%26%20Innovator" alt="iSpace-top Personal Banner" style="width:100%; max-width:1200px; border-radius: 10px; margin-bottom: 20px;">
-
+## 🚀 iSpace-top | [English Version](./README_en.md)
 <!-- GitHub Readme Stats - 可以选择更匹配你个人主题的颜色，目前使用 transparent -->
 ![数据统计](https://github-readme-stats-sigma-five.vercel.app/api?username=ispace-top&show_icons=true&theme=transparent&count_private=true)
 
@@ -44,12 +41,7 @@
 <!-- [![](https://img.shields.io/badge/CSDN-your_csdn_id-C0292B?style=flat&logo=csdn&logoColor=white)](https://blog.csdn.net/your_csdn_id) -->
 
 </div>
-
-<br>
-
 ---
-
-<br>
 
 ### ⚙️  我的技术栈
 
@@ -63,13 +55,7 @@
 
 </div>
 
-<br>
-
 ---
-
-<br>
-
-### 📊  我的编程活跃度
 
 <div align="left" width="85%">
 <!--START_SECTION:waka-->
@@ -120,31 +106,3 @@ Java                   2 repos             █████░░░░░░░�
 <!--END_SECTION:waka-->
 
 </div>
-
-<br>
-
----
-
-<br>
-
-### 🌟 我的精选项目
-
-<!--
-    这里展示你最自豪或最具代表性的项目。
-    每个项目都应包含：项目名称、简短描述、使用的主要技术栈徽章、项目链接，
-    以及可选的项目截图或 GIF 演示，这样能让访问者更直观地了解你的工作。
--->
-
-* **🚀 Project Phoenix (示例项目)**
-    * **描述：** 一个高性能的跨平台移动应用，旨在解决 **[具体问题]**。采用了最新的 **[技术栈如 React Native, Node.js]** 实现数据可视化和实时通信功能。
-    * **亮点：** 实现了 **[某个核心功能，例如：实时数据同步、离线缓存机制]** 和 **[另一个核心功能，例如：高度定制化的用户界面、智能推荐算法]**。
-    * **技术栈：** ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-    * **访问：** [![](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/your-username/project-phoenix)
-    * <!-- 可选：项目演示 GIF 或截图 -->
-        <!-- ![Project Phoenix Demo](https://placehold.co/600x400/000000/FFFFFF?text=Project+Phoenix+Demo) -->
-
-* **💡 DataVault Secure (示例项目)**
-    * **描述：** 一个基于 Java Spring Boot 构建的企业级后端数据安全管理系统，提供了高效的数据加密、权限控制和审计日志功能。
-    * **亮点：** 优化了 **[某个性能指标，例如：API响应速度、并发处理能力]**，并通过 **[某种安全机制，例如：OAuth2认证、JWT令牌]** 增强了数据安全。
-    * **技术栈：** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-    * **访问：** [![](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/your-username/datavault-secure)
