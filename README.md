@@ -34,12 +34,10 @@
 <!-- [![](https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) &nbsp; -->
 <!-- [![](https://img.shields.io/badge/CSDN-your_csdn_id-C0292B?style=flat&logo=csdn&logoColor=white)](https://blog.csdn.net/your_csdn_id) -->
 
-</div>
+
 -------
 
 ### ⚙️  我的技术栈
-
-<div align="left">
 
 * **核心语言：** Java, JavaScript, Python, TypeScript
 * **移动开发：** Android (原生), React Native
@@ -49,7 +47,7 @@
 
 </div>
 
----
+-------
 
 <div align="left" width="85%">
 <!--START_SECTION:waka-->
