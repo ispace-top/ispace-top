@@ -39,16 +39,6 @@ Here, you can see my technological explorations, open-source contributions, and 
 <div align="left" width="85%">
 <!--START_SECTION:waka-->
   
-⏰ **I'm an Early 🐤** 
-
-```text
-🌞 Morning                177 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-🌆 Daytime                483 commits         ██████████░░░░░░░░░░░░░░░   41.93 % 
-🌃 Evening                474 commits         ██████████░░░░░░░░░░░░░░░   41.15 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-```
-
-
 📝 **I Mostly Code in JavaScript** 
 
 ```text
@@ -66,7 +56,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ispace-top/ispace-top/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2025 18:56:31 UTC
+ Last Updated on 25/07/2025 18:56:30 UTC
 <!--END_SECTION:waka-->
 
 </div>
