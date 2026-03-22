@@ -54,8 +54,8 @@ Here, you can see my technological explorations, open-source contributions, and 
 ```text
 JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
@@ -66,7 +66,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ispace-top/ispace-top/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2026 19:02:31 UTC
+ Last Updated on 22/03/2026 19:04:13 UTC
 <!--END_SECTION:waka-->
 
 </div>
