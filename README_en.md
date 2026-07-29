@@ -42,21 +42,21 @@ Here, you can see my technological explorations, open-source contributions, and 
 ⏰ **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-🌆 Daytime                631 commits         ██████████░░░░░░░░░░░░░░░   41.71 % 
-🌃 Evening                637 commits         ███████████░░░░░░░░░░░░░░   42.10 % 
-🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+🌞 Morning                215 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌆 Daytime                634 commits         ██████████░░░░░░░░░░░░░░░   41.79 % 
+🌃 Evening                637 commits         ██████████░░░░░░░░░░░░░░░   41.99 % 
+🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 📝 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -66,7 +66,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ispace-top/ispace-top/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:04:16 UTC
+ Last Updated on 29/07/2026 19:54:48 UTC
 <!--END_SECTION:waka-->
 
 </div>
