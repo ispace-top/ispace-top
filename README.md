@@ -56,11 +56,11 @@
 📝 **我最常使用 JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -70,7 +70,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ispace-top/ispace-top/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:52:17 UTC
+ Last Updated on 18/10/2026 20:58:59 UTC
 <!--END_SECTION:waka-->
 
 </div>
